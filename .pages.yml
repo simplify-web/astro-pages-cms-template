@@ -1,6 +1,6 @@
 content:
-  - name: pages
-    label: blog
+  - name: blog
+    label: Blog
     path: src/content/blog
     filename: '{id}.md'
     type: collection
